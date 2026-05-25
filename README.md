@@ -1,114 +1,95 @@
-<h1 align="center">Hi, I'm Asif Bin Mahmood</h1>
-<h3 align="center">Cybersecurity Enthusiast | Aspiring SOC Analyst | CSE Student at BRAC University</h3>
+<h1 align="center">Asif Bin Mahmood</h1>
+<h3 align="center">Aspiring SOC Analyst focused on Web Security, Digital Forensics, and Practical Threat Analysis</h3>
 
 <p align="center">
   <a href="mailto:asifbinmahmood1632@gmail.com">
-    <img src="https://img.shields.io/badge/Email-asifbinmahmood1632%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.linkedin.com/in/asif-bin-mahmood-253520363/">
-    <img src="https://img.shields.io/badge/LinkedIn-Asif%20Bin%20Mahmood-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://medium.com/@asifbinmahmood1632">
-    <img src="https://img.shields.io/badge/Medium-Technical%20Writeups-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
+    <img src="https://img.shields.io/badge/Medium-Writeups-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
   <a href="https://tryhackme.com/p/asifbinmahmood">
-    <img src="https://img.shields.io/badge/TryHackMe-asifbinmahmood-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
+    <img src="https://img.shields.io/badge/TryHackMe-Labs-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   </a>
 </p>
 
 ---
 
-## About Me
+## Profile
 
-I am a Computer Science and Engineering student at **BRAC University, Dhaka**, focused on cybersecurity, web application penetration testing, digital forensics, and SOC/Blue Team operations.
+I am a Computer Science and Engineering student at **BRAC University** building a cybersecurity portfolio around hands-on labs, structured investigation, and clear technical reporting.
 
-My learning approach combines offensive security practice with defensive thinking. I enjoy understanding how vulnerabilities are discovered and exploited, then translating that knowledge into clearer detection, reporting, remediation, and user protection.
+My work sits at the intersection of offensive security and defensive analysis. I study how web applications break, how evidence is collected, and how network behavior can be translated into useful security insight. That attacker-informed perspective is what I am developing into SOC and Blue Team capability.
 
-I also write technical walkthroughs and lab notes to document my learning process and make cybersecurity topics easier for beginners to follow.
+I use GitHub as a public notebook for polished cybersecurity write-ups, TryHackMe documentation, practical lab analysis, and research-driven learning.
 
-## Current Focus
+## What I Work On
 
-- Building practical SOC analyst and Blue Team skills
-- Web application security and VAPT methodology
-- Digital forensics and cybercrime investigation fundamentals
-- Network traffic profiling and anomaly detection
-- TryHackMe labs, CTF practice, and professional write-up creation
+- Web application security testing and vulnerability documentation
+- SOC fundamentals, alert thinking, and defensive investigation workflows
+- Digital forensics, metadata analysis, and evidence handling
+- Network traffic profiling with Python and Scapy
+- TryHackMe labs, CTF practice, and professional cybersecurity writing
 - IoT security research for non-technical smart home users
 
-## Technical Skills
+## Selected Work
 
-| Area | Tools & Topics |
+| Work | Focus |
+| --- | --- |
+| [THM Notes](https://github.com/Asif-Bin-Mahmood/THM-Notes) | A curated collection of TryHackMe write-ups written as professional security notes. |
+| [Guided Pentest: Wen](https://github.com/Asif-Bin-Mahmood/THM-Notes/tree/main/Guided-Pentest-Wen) | Full attack-chain walkthrough covering enumeration, IDOR, weak password reset, admin takeover, upload bypass, RCE, reverse shell, and remediation. |
+| [Digital Forensics Fundamentals](https://github.com/Asif-Bin-Mahmood/THM-Notes/tree/main/Digital-Forensics-Fundamentals) | Digital forensics notes covering evidence methodology, PDF metadata, EXIF analysis, GPS data, and camera model identification. |
+| Guardian IoT | Personal research project exploring simple visual alerts for gateway-level smart home network threats in Bangladesh. |
+
+## Skill Set
+
+| Domain | Tools & Practice |
 | --- | --- |
 | Web Security | Burp Suite, OWASP ZAP, Nuclei, Katana, SQLmap, Dalfox, LFISuite |
-| Network Analysis | Wireshark, Nmap, Nessus Essentials |
-| Recon & OSINT | Subfinder, httpx, Google Dorking, GitHub Dorking, Dirbuster |
-| Forensics & Scripting | Binwalk, ExifTool, Python, Scapy |
-| Emerging Tech | AI-driven security agents, network traffic profiling |
+| Network & Vulnerability Analysis | Wireshark, Nmap, Nessus Essentials |
+| Recon & OSINT | Subfinder, httpx, Dirbuster, Google Dorking, GitHub Dorking |
+| Forensics & Scripting | ExifTool, Binwalk, Python, Scapy |
+| Documentation | Technical write-ups, pentest-style reporting, remediation summaries |
 
-## Featured Projects
-
-| Project | Description |
-| --- | --- |
-| [THM Notes](https://github.com/Asif-Bin-Mahmood/THM-Notes) | A growing collection of polished TryHackMe notes and cybersecurity write-ups. |
-| [Guided Pentest: Wen](https://github.com/Asif-Bin-Mahmood/THM-Notes/tree/main/Guided-Pentest-Wen) | Professional pentest-style walkthrough covering IDOR, weak password reset, admin takeover, file upload bypass, web shell RCE, reverse shell, and remediation. |
-| [Digital Forensics Fundamentals](https://github.com/Asif-Bin-Mahmood/THM-Notes/tree/main/Digital-Forensics-Fundamentals) | Structured write-up covering forensic methodology, evidence handling, PDF metadata, EXIF data, GPS analysis, and camera model identification. |
-| Guardian IoT | Research project exploring gateway-level network threat translation into simple visual alerts for non-technical smart home users in Bangladesh. |
-
-## Training & Certifications
-
-| Training | Provider | Date |
-| --- | --- | --- |
-| Advanced Web Application Pentesting, 250 hrs | Byte Capsule | Dec 2025 |
-| Digital Forensics & Cyber Crime Investigation Awareness | Byte Capsule | Oct 2025 |
-| Pre Security Learning Path | TryHackMe | Feb 2026 |
-
-## CTF & Community
-
-- Ranked **224th out of 1,359 international teams** in **0xfunCTF 2026** with BRACU Decryptors.
-- Ranked **46th out of 115 national teams** in **StealthFlags 2025** at CUET.
-- Publishes cybersecurity walkthroughs and lab notes on Medium.
-- Shares practical cybersecurity tutorials with junior peers through the Ethical Hacking Bootcamp at BRAC University.
-
-## Toolbox
+## Tools I Use
 
 <p>
   <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" alt="Linux" />
   <img src="https://img.shields.io/badge/Kali%20Linux-268BEE?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Nmap-004170?style=flat-square" alt="Nmap" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white" alt="TryHackMe" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
-## Areas I Document
+## Training & Practice
 
-```text
-Reconnaissance        Web Enumeration        Vulnerability Assessment
-IDOR                  Password Reset Flaws   File Upload Bypass
-Web Shells            Remote Code Execution  Reverse Shells
-Digital Forensics     PDF Metadata           EXIF Analysis
-Network Traffic       CTF Methodology        Technical Reporting
-```
+- Advanced Web Application Pentesting, 250 hours, Byte Capsule
+- Digital Forensics & Cyber Crime Investigation Awareness, Byte Capsule
+- Pre Security Learning Path, TryHackMe
+- Ongoing VAPT practice in simulated lab environments
 
-## GitHub Activity
+## CTF & Community
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Asif-Bin-Mahmood&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub stats" />
-</p>
+- Competed with **BRACU Decryptors** in 0xfunCTF 2026, ranking **224th out of 1,359 international teams**.
+- Ranked **46th out of 115 national teams** in StealthFlags 2025 at CUET.
+- Publish cybersecurity walkthroughs and lab notes on Medium.
+- Share practical security tutorials with junior peers through the Ethical Hacking Bootcamp at BRAC University.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Asif-Bin-Mahmood&layout=compact&theme=github_dark&hide_border=true" alt="Top languages" />
-</p>
+## Current Direction
 
-## Learning Philosophy
-
-Cybersecurity becomes stronger when technical findings are communicated clearly. My goal is to keep improving as both a practitioner and a technical writer: learning through labs, documenting the workflow, explaining the impact, and connecting each finding to practical remediation.
+I am developing toward entry-level SOC and Blue Team roles while continuing to sharpen my web security and forensics foundation. My goal is to become the kind of analyst who can investigate clearly, document precisely, and connect technical evidence to real risk.
 
 ---
 
 <p align="center">
-  <b>Open to cybersecurity learning, collaboration, and entry-level SOC opportunities.</b><br />
-  Connect with me on <a href="https://www.linkedin.com/in/asif-bin-mahmood-253520363/">LinkedIn</a> or read my write-ups on <a href="https://medium.com/@asifbinmahmood1632">Medium</a>.
+  <b>Cybersecurity learner. Practical lab builder. Technical writer.</b><br />
+  <a href="https://www.linkedin.com/in/asif-bin-mahmood-253520363/">LinkedIn</a> ·
+  <a href="https://medium.com/@asifbinmahmood1632">Medium</a> ·
+  <a href="https://tryhackme.com/p/asifbinmahmood">TryHackMe</a>
 </p>
